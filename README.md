@@ -6,3 +6,7 @@ Questo repository contiene il progetto finale realizzato in Blender. Tutti gli e
 Il progetto utilizza principalmente Real-time Textures e shader procedurali, garantendo che i materiali vengano generati correttamente su qualsiasi postazione senza necessità di file immagine esterni.
 
 è sufficiente aprire il file .blend con una versione recente di Blender. Non sono necessarie configurazioni aggiuntive per i percorsi delle texture.
+
+**** Il video dimostrativo è scaricabile dalla sezione [Releases]
+
+(https://github.com/tameraamr/computergraphics/releases)
